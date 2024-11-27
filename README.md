@@ -40,10 +40,23 @@ The LLM generates lore-consistent dialogue based on:
 - Game state data  
 - NPC personality profiles  
 
-### $CORE Cryptocurrency Integration  
-$CORE operates as a blockchain-based, interoperable currency with:  
-- **In-Game Economy:** Players utilize $CORE for in-game assets and resources, through blockchain-enabled microtransactions, making the $CORE token a deflationary asset.    
+## **Launch Mechanics and $CORE Integration**
+
+### **Snapshot and Game Access**  
+- A **snapshot** of $CORE token holders will be taken approximately **6-12 hours after the official launch**.  
+- All wallet addresses included in the snapshot will gain immediate access to the game and its features.  
+- Players will be able to **connect their wallets**, enabling in-game utilization of $CORE for transactions, upgrades, and other interactive elements.  
+
+### **Token Mechanics**  
+- **Deflationary System:**  
+  - Every $CORE token spent in-game will be either **burned** (permanently removed from circulation) or **locked** indefinitely, ensuring a deflationary model that increases the long-term value of $CORE.  
+
+- **Earning $CORE:**  
+  - Players can earn $CORE tokens by completing **main storyline missions**.   
 
 ---
   
 In summary this game aims to redefine gaming by combining LLMs, AI agents, and blockchain technology within a nostalgic 2D retro framework. By leveraging $CORE cryptocurrency for economic mechanics, the platform offers a scalable, engaging experience that empowers players through emergent storytelling and decentralized ownership.  
+
+GG,
+The $CORE team.
